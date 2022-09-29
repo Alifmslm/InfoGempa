@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InfoGempa</string>
+    <string name="app_biasa">Gempa Biasa</string>
+    <string name="app_potensi">Gempa Berbahaya</string>
+</resources>
